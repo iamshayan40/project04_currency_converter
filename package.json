@@ -1,9 +1,10 @@
 {
-  "name": "m6ra4-currency-converter",
+  "name": "m6ra3-currency-converter",
   "version": "1.0.0",
   "description": "A currency converter using inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "@types/inquirer": "^9.0.7",
-    "inquirer": "^9.2.17",
-    "typescript": "^5.4.3"
+    "inquirer": "^9.2.17"
   }
 }

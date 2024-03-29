@@ -1,2 +1,2 @@
-"# Currency-Convertor" 
+"# Currency Converter" 
 "# Currency-Convertor" 
